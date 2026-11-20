@@ -1,0 +1,90 @@
+QB 1 Aaron Rodgers
+QB 2 Mason Rudolph
+QB 3 Will Howard
+
+RB 1 Jaylen Warren
+RB 2 Rico Dowdle
+RB 3 Lew Nichols
+
+WR 1 DK Metcalf
+WR 2 Kaden Wetjen
+WR 3 Cole Burgess
+
+WR 1 Germie Bernard
+WR 2 Michael Pittman Jr.
+
+WR 1 Ben Skowronek
+WR 2 Roman Wilson
+
+TE 1 Darnell Washington
+TE 2 Pat Freiermuth
+TE 3 Robert Tonyan
+
+LT 1 Troy Fautanu
+LT 2 Dylan Cook
+LT 3 Jack Driscoll
+
+LG 1 Brock Hoffman
+LG 2 Spencer Anderson
+LG 3 Gennings Dunker
+
+C 1 Zach Frazier
+C 2 Ryan McCollum
+
+RG 1 Spencer Anderson
+RG 2 Brock Hoffman
+
+RT 1 Max Iheanachor
+RT 2 Dylan Cook
+
+LDE 1 Derrick Harmon
+LDE 2 Yahya Black
+LDE 3 Gabriel Rubio
+
+NT 1 Keeanu Benton
+NT 2 Sebastian Joseph-Day
+
+RDE 1 Cameron Heyward
+RDE 2 Kevin Jobity Jr.
+RDE 3 Logan Lee
+
+WLB 1 T.J. Watt
+WLB 2 Nick Herbig
+
+LILB 1 Payton Wilson
+LILB 2 Cole Holcomb
+
+RILB 1 Patrick Queen
+RILB 2 Carson Bruener
+
+SLB 1 Alex Highsmith
+SLB 2 Jack Sawyer
+
+LCB 1 Asante Samuel Jr.
+LCB 2 Sean Murphy-Bunting
+LCB 3 Doneiko Slaughter
+
+SS 1 DeShon Elliott
+SS 2 Robert Spears-Jennings
+
+FS 1 Jaquan Brisker
+
+RCB 1 Jamel Dean
+RCB 2 Daylen Everette
+RCB 3 Daequan Hardy
+
+NB 1 Jalen Ramsey
+NB 2 Brandin Echols
+NB 3 Donte Kent
+
+K 1 Chris Boswell
+
+P 1 Cameron Johnston
+
+PR 1 Kaden Wetjen
+PR 2 Roman Wilson
+
+KR 1 Kaden Wetjen
+KR 2 Eli Heidenreich
+
+LS 1 Christian Kuntz
