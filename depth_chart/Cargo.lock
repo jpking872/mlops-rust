@@ -496,7 +496,6 @@ dependencies = [
  "reqwest 0.13.5",
  "serde",
  "serde_json",
- "tokio",
 ]
 
 [[package]]
@@ -1680,6 +1679,8 @@ dependencies = [
  "rustls",
  "rustls-pki-types",
  "rustls-platform-verifier",
+ "serde",
+ "serde_json",
  "sync_wrapper",
  "tokio",
  "tokio-rustls",
